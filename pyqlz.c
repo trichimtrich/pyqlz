@@ -308,7 +308,7 @@ static CYTHON_INLINE float __PYX_NAN() {
 #include <math.h>
 #define __PYX_HAVE__pyqlz
 #define __PYX_HAVE_API__pyqlz
-#include "malloc.h"
+#include "stdlib.h"
 #include "wrapQLZ.h"
 #ifdef _OPENMP
 #include <omp.h>
