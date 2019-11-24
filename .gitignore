@@ -1,4 +1,9 @@
 .DS_Store
 venv
 build
+sdist
+dist
 .vscode
+*.py[oc]
+*.so
+*.egg-info
