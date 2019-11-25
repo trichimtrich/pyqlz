@@ -7,3 +7,5 @@ dist
 *.py[oc]
 *.so
 *.egg-info
+
+pyqlz.c

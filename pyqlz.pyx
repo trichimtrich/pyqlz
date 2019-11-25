@@ -2,7 +2,7 @@ __author__ = 'chb'
 
 from ctypes import *
 
-cdef extern from"malloc.h":
+cdef extern from"stdlib.h":
     extern void free(void* buf)
 
 cdef extern from"wrapQLZ.h":
